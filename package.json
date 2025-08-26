@@ -1,0 +1,24 @@
+{
+  "name": "china-survival-guide",
+  "version": "1.0.0",
+  "description": "PDF builder for China Survival Guide using markdown-it and Puppeteer",
+  "main": "scripts/build.ts",
+  "scripts": {
+    "build:pdf": "ts-node --transpile-only scripts/build.ts",
+    "build:html": "ts-node --transpile-only scripts/markdown-processor.ts",
+    "serve": "ts-node --transpile-only scripts/server.ts",
+    "check-types": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@types/mime-types": "^3.0.1",
+    "emoji-toolkit": "^8.0.0",
+    "markdown-it": "^14.0.0",
+    "markdown-it-anchor": "^8.6.7",
+    "mime-types": "^3.0.1",
+    "puppeteer": "^22.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}

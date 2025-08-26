@@ -1,0 +1,11 @@
+# Ignore images, PDFs, OS files, and environments
+images/
+!images/.gitkeep
+!images/apps/
+!images/apps/*.png
+!images/app-placeholder.png
+out/
+*.pdf
+*.DS_Store
+node_modules/
+# Remove Python/venv ignores
