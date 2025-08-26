@@ -2,4 +2,3 @@ out/
 *.pdf
 *.DS_Store
 node_modules/
-# Remove Python/venv ignores
