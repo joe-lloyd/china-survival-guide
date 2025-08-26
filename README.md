@@ -10,12 +10,13 @@ Welcome! This guide is for our European friends and family visiting Yuxi, China 
 
 ## Quick Links
 
-- [eSIM Setup (Saily)](#esim-setup-saily)
-- [Basic Mandarin Phrases](#basic-mandarin-phrases)
-- [Travel & Arrival](#travel--arrival)
-- [Wedding Traditions](#wedding-traditions)
-- [Day-by-Day Itinerary](#day-by-day-itinerary)
-- [Suggestions & Tips](#suggestions--tips)
+- [eSIM Setup (Saily)](guide/ESIM.md)
+- [Basic Mandarin Phrases](guide/Phrases.md)
+- [Travel & Arrival](guide/Travel.md)
+- [Wedding Traditions](guide/Wedding.md)
+- [Day-by-Day Itinerary](guide/Itinerary.md)
+- [Suggestions & Tips](guide/Suggestions.md)
+- [Useful Apps](guide/UsefulApps.md)
 
 ---
 
